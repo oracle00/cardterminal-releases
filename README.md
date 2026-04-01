@@ -1,7 +1,6 @@
 # CardTerminal
 
 Demul エミュレータ（Hikaru/Virtual On 4）向けのカードデータ監視・書き換えツールです。  
-Python 版 `von4_card_loader_forDemul` を WPF (C#) に移植したものです。
 
 ## 動作環境
 
