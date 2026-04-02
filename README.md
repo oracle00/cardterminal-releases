@@ -2,12 +2,13 @@
 
 Demul エミュレータ（Hikaru/Virtual On 4）向けのカードデータ監視・書き換えツールです。  
 ソースコードは非公開。
+自分が使う目的で作成しているので使用は自己責任で。
 
 ## 動作環境
 
 - Windows 10 / 11 (64 bit)
 - .NET Flamework 8.0 必須
-- Demul エミュレータ（`-run=hikaru -rom=von4` オプション対応版）
+- Demul エミュレータ 2025年12月20日版
 
 ## 機能
 
