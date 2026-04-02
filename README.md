@@ -1,6 +1,7 @@
 # CardTerminal
 
 Demul エミュレータ（Hikaru/Virtual On 4）向けのカードデータ監視・書き換えツールです。  
+ソースコードは非公開。
 
 ## 動作環境
 
